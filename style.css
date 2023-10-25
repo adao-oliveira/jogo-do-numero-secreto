@@ -90,6 +90,10 @@ body::before {
     gap: 2em;
 }
 
+strong, .rvTextRow {
+    color: #111;
+}
+
 h1 {
     font-family: 'Chakra Petch', sans-serif;
     font-size: 50px;
